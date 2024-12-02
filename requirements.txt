@@ -1,0 +1,4 @@
+GitPython
+python-dateutil
+mermaid
+Pillow
