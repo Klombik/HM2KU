@@ -58,4 +58,4 @@ python -m unittest discover tests -v
 
 ![art](https://github.com/Klombik/HM2KU/blob/c9834196db936c949c08f4cab3daf813c8922d69/pr2.png)
 
-![art](https://github.com/Klombik/HM2KU/blob/667405581869f04448c5f8a52589d637afe1fead/output.png)
+![art](https://github.com/Klombik/HM2KU/blob/225bb7667074bebbcd031a676f53174c24cdccf6/output.png)
