@@ -52,5 +52,6 @@ python -m unittest discover tests -v
 
 # Результат юнит-тестов программы
 
+![art](https://github.com/Klombik/HM2KU/blob/c9834196db936c949c08f4cab3daf813c8922d69/pr2.png)
 
 # Результат работы программы
