@@ -33,7 +33,7 @@
 Запускаем программу:
 
 ```
-python src/cli.py config.json
+python cli.py config.json
 ```
 
 # Команда для запуска юнит-тестов
